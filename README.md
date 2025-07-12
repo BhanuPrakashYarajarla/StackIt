@@ -75,11 +75,11 @@ python app.py
 ## 👥 Contributors
 
 | Name                        | Role              
-|-----------------------------|---------------------------------|
-| **Bhanu Prakash Yarajarla** | Backend Developer, Project Lead |
-| **Ranesh Chandra**          | Frontend Developer              | 
-| **Sree Harshini**           | UI/UX Designer                  |
-| **Ankit Gandhi**            | Reviewer                        |
+|-----------------------------|-------------------------------------|
+| **Bhanu Prakash Yarajarla** | Backend Developer, Project Lead     |
+| **Ranesh Chandra**          | Frontend Developer                  | 
+| **Sree Harshini**           | UI/UX Designer , Frontend Developer |               |
+| **Ankit Gandhi**            | Reviewer                            |
 
 
 
