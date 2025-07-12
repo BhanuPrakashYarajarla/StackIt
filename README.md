@@ -7,20 +7,20 @@ StackIt is a clean, modern, and fully responsive Q&A web application built with 
 
 ## Features
 
-- 🔒 Role-based UI (Guest, User, Admin)
-- 📝 Ask and Answer Questions
-- ⬆️⬇️ Upvote / Downvote Answers
-- 🧭 Pagination and Breadcrumb Navigation
-- ✍️ Rich Text Editor (Bold, Italic, Emojis, Lists)
-- 🔍 Search & Filter Tags
-- 🎨 Clean Tailwind-based UI
-- ⚙️ Backend with SQLAlchemy & SQLite
-- 💾 LocalStorage simulation for frontend roles
-- 📱 Mobile-First Responsive Design
+- Role-based UI (Guest, User, Admin)
+- Ask and Answer Questions
+- Upvote / Downvote Answers
+- Pagination and Breadcrumb Navigation
+- Rich Text Editor (Bold, Italic, Emojis, Lists)
+- Search & Filter Tags
+- Clean Tailwind-based UI
+- Backend with SQLAlchemy & SQLite
+- LocalStorage simulation for frontend roles
+- Mobile-First Responsive Design
 
 ---
 
-## 👥 User Roles
+##  User Roles
 
 | Role     | Capabilities                                                                 |
 |----------|-------------------------------------------------------------------------------|
@@ -30,7 +30,7 @@ StackIt is a clean, modern, and fully responsive Q&A web application built with 
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 | Layer         | Tech Used                            | Purpose                                      |
 |---------------|--------------------------------------|----------------------------------------------|
@@ -47,7 +47,7 @@ StackIt is a clean, modern, and fully responsive Q&A web application built with 
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the Repository
 ```bash
