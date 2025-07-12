@@ -1,8 +1,7 @@
-# 🚀 StackIt – A Minimal Q&A Forum Platform
+#  StackIt – A Minimal Q&A Forum Platform
 
 StackIt is a clean, modern, and fully responsive Q&A web application built with **React**, **Vite**, **Tailwind CSS**, and powered by a **Python backend** using **SQLAlchemy + SQLite**. It supports role-based functionality (Guest, User, Admin), enabling users to ask questions, post answers, upvote/downvote, and manage content efficiently.
 
-![StackIt Banner](https://your-screenshot-url.com/banner.png)
 
 ---
 
