@@ -5,7 +5,7 @@ StackIt is a clean, modern, and fully responsive Q&A web application built with 
 
 ---
 
-## 🔥 Features
+## Features
 
 - 🔒 Role-based UI (Guest, User, Admin)
 - 📝 Ask and Answer Questions
